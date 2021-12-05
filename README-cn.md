@@ -19,7 +19,7 @@ GoGoCode keyi是一个基于 AST 的 JavaScript/Typescript/HTML 代码转换工�
 
 ### 需要转换的代码
 
-```javascript
+```javascript  废弃
 const a = 1;
 const b = 2;
 ```
